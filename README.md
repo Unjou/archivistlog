@@ -1,4 +1,4 @@
-# Analog Archivist — Curatorial Archive & Needle Drop Platform
+# Archivist — Curatorial Archive & Needle Drop Platform
 
 > An intentional, tactile mobile interface designed for independent vinyl archivists, rare photobook collectors, and physical sound preservationists.
 
